@@ -1,0 +1,16 @@
+{
+  "name": "crypto-scrapper",
+  "version": "1.0.0",
+  "description": "api",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
